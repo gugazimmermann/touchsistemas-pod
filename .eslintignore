@@ -1,0 +1,12 @@
+/coverage/*
+/build/*
+/node_modules/*
+/public/*
+*.css
+*.svg
+.graphqlconfig.yml
+/.vscode/*
+/amplify/*
+/src/aws-exports.js
+/src/graphql/*
+/src/models/*
